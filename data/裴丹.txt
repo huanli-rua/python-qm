@@ -1,0 +1,6 @@
+研究领域
+智能运维（AIOps）
+时间序列智能（Time Series Intelligence）
+
+研究概况
+裴丹，博士，清华大学计算机系长聘副教授、博士生导师。获得电子学会科技进步一等奖。在智能运维领域发表了200余篇学术论文和30多项专利授权，Google学术引用过万次。CCF AIOps算法挑战赛的创办人和CCF OpenAIOps社区发起人。计算机网络领域旗舰期刊IEEE/ACM Transactions on Networking 编委，并曾担任IEEE计算机网络领域旗舰会议ICNP 2022的技术程序委员会主席。

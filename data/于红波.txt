@@ -1,0 +1,40 @@
+研究领域
+密码算法分析与设计
+
+研究概况
+长期从事密码算法与设计研究。在杂凑算法设计与分析方面取得重要研究成果，获得国家科技进步一等奖1次（6/12,待授奖）和国家自然科学二等奖1次（2/2，2008年），省部级一等奖2次。关于MD5破解得论文获得2008年汤姆森路透社卓越研究奖，关于SHA-1破解的论文2020年获得国际密码学会授予的“最具时间检验奖”。参与设计的我国密码杂凑函数标准SM3，2018年被纳入国际ISO/IEC标准。代表性论文发表在Crypto, Eurocrypt, FSE (IACR Transactions on Symmetric Cryptology),CT-RSA 等密码学顶级会议或期刊上， 被Web of Science 他引上千次，Google Scholar引用超过3000次。负责或参与了“973”计划、“863”课题、自然科学基金重点项目、自然科学基金面上项目、科技部重点研发项目等多项国家级项目或课题。
+奖励和荣誉
+[1] 国家科技进步一等奖, 6/12, 2020
+[2] 国家自然科学二等奖, 2/2，2008年
+[3]国际密码学会授予的“最具时间检验奖”,2020
+[4] 汤姆森路透社卓越研究奖, 2008
+[5] 中国密码学会优秀青年奖（2011年）
+部分研究成果
+[1] Internal differential structure: preimage attacks on up to 5-round Keccak, Designs, Codes and Cryptography 69(3), Xiaoen Lin, Le He, Zhengrong Lu, Yantian Shen, Chongxu Ren, Hongbo Yu*
+[2] 申焱天, 陈怡, 于红波. 深度学习辅助密码分析的通用增强框架: 应用于Speck, Simon和LEA算法. 中国科学: 信息科学, 2025, 55(6): 1447–1470. DOI: 10.1360/SSI-2025-0024
+[3] Practical Preimage Attacks on 3-Round Keccak-256 and 4-Round Keccak[r=640, c=160]. IACR Trans. Symmetric Cryptol. 2025(1): 328-356 (2025), Xiaoen Lin, Le He, Hongbo Yu*.
+[4] Collision Attacks on Reduced RIPEMD-128. IACR Cryptol. ePrint Arch. 2025: 979 (2025), Zhengrong Lu, Hongbo Yu,* Xiaoen Lin, Sitong Yuan:
+[5] Cryptanalysis of Reduced-Round SipHash. Comput. J. 67(3): 875-883 (2024), Le He, Hongbo Yu*.
+[6] Practical Preimage Attack on 3-Round Keccak-256. IACR Cryptol. ePrint Arch. 2023: 101 (2023), Xiaoen Lin, Le He, Hongbo Yu*
+[7] Differential-Linear Approximation Semi-unconstrained Searching and Partition Tree: Application to LEA and Speck. ASIACRYPT (3) 2023: 223-255, Yi Chen, Zhenzhen Bao, Hongbo Yu*
+[8] Neural-Aided Statistical Attack for Cryptanalysis. Comput. J. 66(10): 2480-2498 (2023),Yi Chen, Yantian Shen, Hongbo Yu*
+[9] A New Neural Distinguisher Considering Features Derived From Multiple Ciphertext Pairs. Comput. J. 66(6): 1419-1433 (2023),Yi Chen, Yantian Shen, Hongbo Yu*, Sitong Yuan
+[10] 用于大状态分组密码的深度学习辅助密钥恢复框架, 陈怡, 包珍珍, 申焱天, 于红波 , 中国科学: 信息科学, 2023, 53(7): 1348-1367
+[11] Improved Preimage Attacks on Round-Reduced Keccak-384/512 via Restricted Linear Structures. IACR Cryptol. ePrint Arch. 2022: 788 (2022), Le He, Xiaoen Lin, Hongbo Yu*
+[12] A Deep Learning aided Key Recovery Framework for Large-State Block Ciphers. IACR Cryptol. ePrint Arch. 2022: 1659 (2022),Yi Chen, Zhenzhen Bao, Yantian Shen, Hongbo Yu*
+[13] Improved Preimage Attacks on 4-Round Keccak-224/256. IACR Trans. Symmetric Cryptol. 2021(1): 217-238 (2021), Le He, Xiaoen Lin, Hongbo Yu*.
+[14]Improved Preimage Attacks on 3-Round Keccak-224/256. IACR Trans. Symmetric Cryptol. 2021(3): 84-101 (2021), Xiaoen Lin, Le He, Hongbo Yu*
+[15] Blockchain-Assisted Secure Device Authentication for Cross-Domain Industrial IoT. IEEE J. Sel. Areas Commun. 38(5): 942-954 (2020), Meng Shen, Huisen Liu, Liehuang Zhu, Ke Xu, Hongbo Yu, Xiaojiang Du, Mohsen Guizani
+[16] MILP-Based Differential Attack on Round-Reduced GIFT, Topics in Cryptology - CT-RSA 2019, pp.372-390, 2019, Baoyu Zhu&, Xiaoyang Dong, Hongbo Yu*.
+[17] Improved Cryptanalysis of step-reduced SM3, SCIENCE CHINA INFORMATON SCIENCES, volume 61(3), 2018, Yanzhao Shen, Dongxia Bai, Hongbo Yu*.
+[18] Evaluate the security margins of SHA-512, SHA-256 and DHA-256 against the boomerang attack, SCIENCE CHINA INFORMATON SCIENCES, volume 9(5), 2016. Hongbo Yu*, Yonglin Hao, Dongxia Bai.
+[19]Improved boomerang attacks on round-reduced SM3 and keyed permutation of BLAKE-256. IET Information Security 9(3): 167-178, 2016, Dongxia Bai, Hongbo Yu*, Gaoli Wang, Xiaoyun Wang.
+[20] SM3 密码杂凑算法，信息安全研究.2016(11). 983-994. 王小云，于红波
+[21] Evaluate the security margins of SHA-512, SHA-256 and DHA-256against the boomerang attack，SCIENCE CHINA，2016.3.10，59(5), YU Hongbo*，HAO Yonglin，Bai Dongxia.
+[22] Improved Boomerang Attacks on Round-Reduced SM3 and Keyed Permutation of BLAKE-256, IET Information Security, volume 9(3), 2015, pp.167-178. Dongxia Bai& , Hongbo Yu*, Gaoli Wang, Xiaoyun Wang.
+[23] Partial-Collision Attack on the Round-Reduced Compression Function of Skein-256, FSE 2013, 2014, LNCS 8424, pp.263-283. Hongbo Yu*, Jiazhe Chen, Xiaoyun Wang.
+[24] Cryptanalysis of GOST R hash function，Information ProcessingLetters，2014.7.7，2014(114)：655~662. Zongyue Wang，Hongbo Yu *，Xiaoyun Wang.
+[25] Improved Meet-in-the-Middle Attacks on Round-Reduced ARIA，ISC2013，Dongxia Ba，Hongbo Yu*.
+[26] Cryptanalysis on HMAC/NMAC-MD5 and MD5-MAC, Eurocrypt 2009, 2009, LNCS 5479, pp.121-133. Xiaoyun Wang*, Hongbo Yu, Wei Wang, Haina Zhang, Tao Zhan.
+[27] How to Break MD5 and Other Hash Functions, Eurocrypt 2005,2005, LNCS 3494, pp.19-35. Xiaoyun Wang*, Hongbo Yu.
+[28] Finding Collisions in the full SHA-1, Crypto 2005, 2005, LNCS 3621, pp.17-36. Xiaoyun Wang*, Yiqun Lisa Yin, Hongbo Yu.

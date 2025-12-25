@@ -1,0 +1,30 @@
+研究领域
+互联网体系结构，网络安全，人工智能
+
+研究概况
+谢晓晖博士，清华大学计算机系助理研究员，先后在清华大学计算机系获得学士和博士学位。主要研究方向为人工智能与互联网体系结构，作为主要作者在TheWebConf，SIGIR等一系列顶级会议/期刊上共发表了30余篇高水平论文，相关成果获“2024年中国通信学会科学技术奖一等奖”，“2022年吴文俊人工智能科学技术奖优秀博士学位论文”和“2022年北京市科学技术进步奖一等奖”等荣誉。社会工作方面，担任计算机系党委学生工作组组长，负责本科生培养与管理工作，曾获清华大学教学成果一等奖1次（2021年），二等奖1次（2025年）。
+研究成果（近5年）
+1. Yunze Wei, Kaiwen Chi, Shibo Du, Xiaohui Xie, Ziyu Geng, Yuwei Han, Zhen Li, Zhanyou Li, Yong Cui. Large Language Model Driven Automated Network Protocol Testing. (ANRW 2025).
+2. Xiaoyu He, Xiaohui Xie, Xin Wang, Lei Zhang, Kun Xie, Lin Chen, Yong Cui. FlowSentry: Accelerating NetFlow-based DDoS Detection. (CCS 2025).
+3. Chang Liu, Xiaohui Xie, Xinggong Zhang, Yong Cui. Large Language Models for Networking: Workflow, Advances and Challenges. (IEEE Network 2024).
+4. Tongze Wang, Xiaohui Xie, Wenduo Wang, Chuyi Wang, Youjian Zhao, Yong Cui. NetMamba: Efficient Network Traffic Classification via Pre-training Unidirectional Mamba. (ICNP 2024).
+5. Lingfeng Peng, Xiaohui Xie, Sijiang Huang, Ziyi Wang, Yong Cui. PTU: Pre-trained Model for Network Traffic Understanding. (ICNP 2024).
+6. Yishuo Zhang, Lanshan Zhang, Zhizhen Zhang, Ziyi Wang, Wendong Wang, Xiaohui Xie. Resolving Spurious Temporal Location Dependency for Video Corpus Moment Retrieval. (SMC 2024).
+7. Tongze Wang, Xiaohui Xie, Lei Zhang, Chuyi Wang, Liang Zhang, Yong Cui. ShieldGPT: An LLM-based Framework for DDoS Mitigation. The 8th Asia Pacific Workshop on Networking (APNET 2024).
+8. Jie Zhang, Xt Zuo, Xiaohui Xie, Wei Wang, Yong Cui. TransPortal: Keeping Applications Enjoying Tailored Transport Effortlessly. (IWQoS 2024).
+9. Shuqi Zhu, Xiaohui Xie, Ziyi Ye, Qingyao Ai, Yiqun Liu. Comparing Point-wise and Pair-wise Relevance Judgment with Brain Signals. Journal of the Association for Information Science and Technology (JASIST 2024).
+10. Zhizhen Zhang, Xiaohui Xie, Yishuo Zhang, Lanshan Zhang, Yong Jiang. HierCas: Hierarchical Temporal Graph Attention Networks for Popularity Prediction in Information Cascades. (IJCNN 2024).
+11. Ziyi Ye, Xiaohui Xie, Qingyao Ai, Yiqun Liu, Zhihong Wang, Weihang Su, Min Zhang. Relevance Feedback with Brain Signals. ACM Transactions on Information Systems (TOIS 2024).
+12. Ye Tian, Mengyu Yang, Lanshan Zhang, Zhizhen Zhang, Yang Liu, Xiaohui Xie, Xirong Que, Wendong Wang. View while Moving: Efficient Video Recognition in Long-untrimmed Videos. Proceedings of the 31st ACM International Conference on Multimedia. (MM 2023).
+13. Xiaohui Xie, Qian Dong, Bingning Wang, Feiyang Lv, Ting Yao, Weinan Gan, Zhijing Wu, Xiangsheng Li, Haitao Li, Yiqun Liu, Jin Ma. T2ranking: A large-scale chinese benchmark for passage ranking. Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval. (SIGIR 2023).
+14. Zhiyu He, Shaorun Zhang, Peijie Sun, Jiayu Li, Xiaohui Xie, Min Zhang, Yiqun Liu. Understanding User Immersion in Online Short Video Interaction. Proceedings of the 32nd ACM International Conference on Information and Knowledge Management. (CIKM 2023).
+15. Jingtao Zhan, Xiaohui Xie, Jiaxin Mao, Yiqun Liu, Jiafeng Guo, Min Zhang, Shaoping Ma. Evaluating interpolation and extrapolation performance of neural retrieval models. Proceedings of the 31st ACM International Conference on Information & Knowledge Management. (CIKM 2023).
+16. Yixing Fan, Xiaohui Xie, Yinqiong Cai, Jia Chen, Xinyu Ma, Xiangsheng Li, Ruqing Zhang, Jiafeng Guo. Pre-training methods in information retrieval. Foundations and Trends® in Information Retrieval. (FnTIR 2022).
+17. Ziyi Ye, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, Shaoping Ma. Brain topography adaptive network for satisfaction modeling in interactive information access system. Proceedings of the 30th ACM International Conference on Multimedia. (MM 2022).
+18. Ziyi Ye, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuancheng Li, Jiaji Li, Xuesong Chen, Min Zhang, Shaoping Ma. Why Don’t You Click: Understanding Non-Click Results in Web Search with Brain Signals. Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. (SIGIR 2022).
+19. Jia Chen, Yiqun Liu, Yan Fang, Jiaxin Mao, Hui Fang, Shenghao Yang, Xiaohui Xie, Min Zhang, Shaoping Ma. Axiomatically regularized pre-training for ad hoc search. Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. (SIGIR 2022).
+20. Ziyi Ye, Xiaohui Xie, Yiqun Liu, Zhihong Wang, Xuesong Chen, Min Zhang, Shaoping Ma. Towards a better understanding of human reading comprehension with brain signals. Proceedings of the ACM Web Conference 2022. (theWebConf 2022).
+21. Junqi Zhang, Yiqun Liu, Jiaxin Mao, Xiaohui Xie, Min Zhang, Shaoping Ma, Qi Tian. Global or local: constructing personalized click models for web search. Proceedings of the ACM Web Conference 2022. (theWebConf 2022).
+22. Xuesong Chen, Ziyi Ye, Xiaohui Xie, Yiqun Liu, Xiaorong Gao, Weihang Su, Shuqi Zhu, Yike Sun, Min Zhang, Shaoping Ma. Web search via an efficient and effective brain-machine interface. Proceedings of the Fifteenth ACM International Conference on Web Search and Data Mining. (WSDM 2022).
+23. Yiqun Liu, Jiaxin Mao, Xiaohui Xie, Min Zhang, Shaoping Ma. Challenges in designing a brain-machine search interface. ACM SIGIR Forum 2021 Ruizhe Zhang, Xiaohui Xie, Jiaxin Mao, Yiqun Liu, Min Zhang, Shaoping Ma. Constructing a comparison-based click model for web search. Proceedings of the Web Conference 2021. (theWebConf 2021).
+【

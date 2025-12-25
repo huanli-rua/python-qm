@@ -1,0 +1,8 @@
+研究领域
+数据科学系统
+数据库系统
+Data+AI
+
+研究概况
+王健楠的主要研究领域是数据库与数据科学系统，致力于构建高性能、低门槛、智能化的数据管理与分析基础软件。他提出了“Task-Centric”的数据准备范式，并主导研发了开源软件DataPrep和ConnectorX，两者累计下载量超过1500万次；其中，ConnectorX 被华为数仓 GuassDB（DWS）以及开源项目 Modin 和 Polars 采用。他研发的 SampleClean 系统成为伯克利大数据分析栈的核心模块之一, 后续的 ActiveClean 系统获 SIGMOD 2016最佳演示奖。他提出并实现了混合人机系统 CrowdER, 该成果被美国宾夕法尼亚大学、佐治亚理工学院、哥伦比亚大学等高校纳入研究生教学，相关论文被引用逾千次。
+王健楠曾担任 VLDB 2023 大会主席、ICDE 2022 博士研讨会主席、VLDB 2021 副主编以及 SIGMOD 2019 核心 PC 成员，并发起创办了 VLDB CloudDB Workshop 和 VLDB Industry Challenge and Vision Workshop。主持6项加拿大国家自然科学与工程基金（NSERC）和5项企业合作科研项目。根据Google Scholar统计，论文被引用6000余次，其中17篇论文单篇引用超过100次，H-index 36。研究成果获得 VLDB 2021 EA&B 最佳论文奖（华人首次获此殊荣）、2020 年加拿大杰出青年奖（加拿大计算机青年学者的最高荣誉）、IEEE TCDE 2018 新星奖（华人历史上第二次获奖）、ACM SIGMOD 2016 最佳演示奖、2013 年 CCF 优秀博士论文奖、和 2011 年 Google PhD Fellowship。
