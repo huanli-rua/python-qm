@@ -1,0 +1,4 @@
+研究领域
+数据挖掘,机器学习,人工智能,网络科学
+研究概况
+东昱晓,清华大学计算机系副教授,知识工程实验室(keg)成员.主要研究方向为数据挖掘、图机器学习、预训练模型和社交网络.近期研究成果包括图神经网络预训练(graphmae, gpt-gnn, gcc)、异构图表示学习(hetero. graph transformer/hgt, metapath2vec)及网络嵌入理论和快速算法(netmf, netsmf, prone, sketchne)等.相关研究获www 2022, www 2019, wsdm 2015最佳论文提名,并应用于脸书社交网络和微软图谱十亿级用户应用.博士毕业于美国圣母大学,曾工作于脸书人工智能和微软雷蒙德研究院.担任ecml-pkdd 2020/2021 ads pc co-chair、www 2023 track co-chair、kdd 2018/19/20 deep learning day co-chair和ieee transactions on big data副主编.获国家青年人才项目支持、ijcai 2022 early career spotlight 、2017年acm sigkdd博士论文提名奖(即第三名)和2022年acm sigkdd新星奖.

@@ -1,0 +1,31 @@
+研究领域
+人机交互,普适计算
+承担及完成的重要科研项目:
+chief scientist, computational fundamentals of natural hci, national high-tech research and development plan of china, 2017-2020
+pi, natural hci technology development, ali-tsinghua joint research plan, 2018-2019
+pi, intelligent human computer interaction technologies, hw-tsinghua joint research plan, 2016-2021
+pi, human motion sensing data modelling, natural science foundation of china , 2016-2019
+pi, wearable interaction, samsung china, 2015
+pi, hybrid 3d interaction study by world-facing 3d camera, intel china, 2013-2015
+pi, gui efficiency and optimization, natural science foundation of china, 2013-2016
+pi, mobile phone sensor data analyse and interaction technologies, nokia china, 2008-2012
+pi, elearning information standards and technologies, ministry of education, china, 2010-2012
+pi, usage pattern of mobile phone based on sensor data analysis, microsoft china, 2010-2011
+pi, video-based human behaviour recognition and surveillance, siemens ag, 2009-2011
+chief scientist, key technologies of ubiquitous computing, national high-tech research and development plan of china, 2009-2011
+pi, multiuser large interactive tabletop key technologies and prototype system, national high-tech research and development plan of china, 2008-2010
+pi, web based multimedia interactive platform, siemens china, 2008-2009
+pi, smart space key technologies and prototype system, national high-tech research and development plan of china, 2008-2010
+pi, multiple user shared multimodality interaction model and key technologies, national high-tech research and development plan of china, 2006-2008
+pi, multimodality interaction software platform, lenovo, 2005
+pi, microphone array technologies and applications, intel, 2003
+chief scientist, key technologies for distanced learning system, ministry of education, china, 2002-2004
+pi, adaptation strategy for multimedia, natural science foundation of china, 2002-2004
+pi, smart working environment----hci technology in ubiquitous computing era, , national high-tech research and development plan of china, 2002-2003
+pi, elearning technology standards, ministry of education, china, 2001-2002
+pi, smart classroom, ibm, 2000-2001
+pi, distributed human computer interaction, national 985 plan, 1999-2002
+pi, researches on video data storage and retrieval, national 863 plan, 1999-2000
+pi, image retrieval based on content over web, national 863 plan, 1997-1998
+pi, supporting platform of cooperative design, national 863 plan, 1996-1998
+pi, distributed multimedia development system, 9th 5 year plan of national science and technology development, 1996-1997

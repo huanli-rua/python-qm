@@ -1,0 +1,6 @@
+研究领域
+密码计算,信息安全
+研究概况
+主要从事有限域计算快速算法设计.有限域gf(2^n)广泛应用于密码和纠错码等领域,我们在gf(2^n)并行乘法器设计领域所做出的原创性工作在多数gf(2^n)上是目前国际同类设计方案中的唯一最好结果,例如被iso,nist和ansi等列为国际标准的"椭圆曲线数字签名算法(ecdsa)"所建议的5个gf(2^n)中的4个.
+2016年,美光(micron)将我们在2005年所设计的移位多项式基乘法器应用于包括3d xpoint(intel-micron联合开发)在内的下一代存储芯片,以降低bch纠错码的译码延时("fast decoding ecc for future memories",ieee j-sac).
+2023年,我们在2010年所设计的基于奇偶分裂的overlap-free karatsuba乘法器被用于美国nist后量子密码(pqc)标准化过程中,以评估候选算法的硬件实现效率(high-speed hardware architectures and fpga benchmarking of crystals-kyber, ntru, and saber,ieee tc).

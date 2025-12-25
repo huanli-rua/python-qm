@@ -1,0 +1,8 @@
+研究领域
+分布式系统,存储系统,操作系统
+研究概况
+主要从事分布式系统和存储系统方面的研究工作,在sosp、atc等国际顶级会议上发表多篇论文,并获得华为全球奥林帕斯奖等奖项.博士毕业后进入中关村实验室进行操作系统内核相关的研究.2024年加入清华大学计算机系高性能所任助理研究员.
+近年代表性论文
+[1] jialiang huang, mingxing zhang, teng ma, zheng liu, sixing lin, kang chen, jinlei jiang, xia liao, yingdi shan, ning zhang, mengting lu, tao ma, haifeng gong, yongwei wu. transparently share serverless execution environments across different functions and nodes. in 30th acm symposium on operating systems principles (sosp'24), 2024.
+[2] yingdi shan, kang chen, and yongwei wu. explore data placement algorithm for balanced recovery load distribution. in 2023 usenix annual technical conference (usenix atc'23), 2023.
+[3] yingdi shan, kang chen*, tuoyu gong, lidong zhou, tai zhou, yongwei wu. geometric partitioning: explore the boundary of optimal erasure code repair. in 28th acm symposium on operating systems principles (sosp'21), 2021.

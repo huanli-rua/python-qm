@@ -1,0 +1,85 @@
+研究领域
+[1] 自然语言理解
+研究不同层次的汉语句法语义分析方法,构建汉语句子和语篇理解的基础分析平台
+[2] 语料库语言学
+研究汉语"字/词->块->句->段"不同层次的句法语义描述体系,构建大规模的汉语句法语义语篇标注库
+研究概况
+研究兴趣包括计算语言学、语料库语言学、自然语言理解和机器学习.已在国内外核心刊物和重要学术会议发表了100多篇论文,主持并参加多项国家自然科学基金、国家973和国家863项目
+参与的主要科研项目
+1998-2003 面向大规模真实文本的汉语计算理论,方法和工具,国家973基金资助项目(项目号:1998030507-2),主要参加者
+2000-2002 汉语动词搭配知识的自动发现研究,国家自然科学基金资助青年基金项目(项目号: 69903007),项目负责人
+2002-2004 构建基于情境的词汇语义学的计算平台,国家自然科学基金资助面上项目(项目号: 60173008),项目负责人
+2006-2008 基于情境的汉语基本事件内容分析研究,国家自然科学基金资助面上项目(项目号: 60573185),项目负责人
+2009-2011 汉语词汇关联知识的计算融合和分析应用研究,国家自然科学基金资助面上项目(项目号: 60873173),项目负责人
+2013-2017 互联网环境中文言语信息处理与深度计算的基础理论和方法,国家973基础研究项目,子课题负责人
+2014-2017 汉语语篇中连贯关系和隐含角色的分析标注研究,国家自然科学基金资助面上项目(项目号: 61373075),项目负责人
+2014-2016 面向汉英双语的认知情感网和多模态话题分析技术研究,国家自然科学基金资助国际合作项目,项目负责人
+2015-2019 互联网话语理解的认知与计算建模,国家自然科学基金重点资助项目,主要参加者
+部分科研成果:
+1. 单昊聪,周强 (2023). 眼动记录与主旨结构标注的关联性分析研究. <中文信息学报>,37(1),2023年1月,169-178.
+2. zhihua su, qiang zhou (2022). speaker clustering in textual dialogue with pairwise utterance relation and cross-corpus dialogue act supervision. proceedings of the 29th international conference on computational linguistics, pages: 734–744.
+3. 梁宇海,周强 (2020). 自动构建基于电视剧字幕和剧本的日常会话基础标注库. <中文信息学报>,34 (1): 23-33.
+4. yuhai liang,qiang zhou. (2020). detect turn-takings in subtitle streams with semantic recall transformer encoder. in proc. of ialp-2020.
+5. leilan zhang, qiang zhou. (2019). topic segmentation for dialogue stream. proc. of apasipa-2019, lanzhou, china.
+6. xuejing zhang, xueqiang lv, qiang zhou, tianke wei. (2018) a study on automatic recognition of chinese sentence pairs relations based on cnn. j.-f. hong et al. (eds.): clsw 2018, lnai 11173, pp. 497–508.
+7. xuejing zhang, xueqiang lv, qiang zhou. (2018) chinese dialogue analysis using multi-task learning framework. in proc. of ialp 2018, bandung, indonesia.
+8. tianke wei, qiang zhou, xuejin zhang, xueqiang lv. (2017). a study on the distribution differences of sentence group coherence in chinese texts of different genres,2017,lnai 10709.
+9. 周强. (2017) 汉语日常会话的对话行为分析标注研究. <中文信息学报>,31(6): 75-82.
+10. miao fan, qiang zhou, thomas fang zheng, ralph grishman. (2017) distributed representation learning for knowledge bases with entity descriptions. pattern recognition letters, 93:31-37.
+11. 周强. 汉语谓词组合范畴语法词库的自动构建研究. 中文信息学报, 2016, 30(3):196-203.
+12. miao fan, qiang zhou, thomas fang zheng. (2016). learning embedding representations for knowledge inference on imperfect and incomplete repositories. ieee/wic/acm international conference on web intelligence (wi'16), 2016.
+13. miao fan, qiang zhou, andrew abel, thomas fang zheng, ralph grishman. (2016) probabilistic belief embedding for large-scale knowledge population. cognitive computation, 8(6), pp. 1087-1102.
+14. miao fan, deli zhao, qiang zhou, thomas fang zheng, ralph grishman, (2015) large margin nearest neighbor embedding for knowledge representation. proc. of wi 2015.
+15. miao fan, qiang zhou, thomas fang zheng. (2015) distant supervision for entity linking. proc. of paclic 2015.
+16. zhongda xie, yunqing xia, qiang zhou. (2015) incorporating semantic knowledge with mrf term dependency model in medical document retrieval. springer international publishing, 2015, volume 9362: page 219-228.
+17. 周强、周骁聪. (2014) 基于话题链的汉语语篇连贯性描述体系 <中文信息学报>, 2014年9月, 28(5), pp 102-111.
+18. qiang zhou. (2014) evaluation report of the fourth chinese parsing evaluation: cips-sighan-parseval-2014, in proceedings of the third cips-sighan joint conference on chinese language processing, wuhan, china, 20-21 october 2014, pp 146–152.
+19. miao fan, qiang zhou, and thomas fang zheng. (2014) mining the personal interests of microbloggers via exploiting wikipedia knowledge. in computational linguistics and intelligent text processing, april 6–12, 2014 pp. 188-200.
+20. miao fan, deli zhao, qiang zhou, et. al. (2014) distant supervision for relation extraction with matrix completion. in proceedings of the 52nd annual meeting of the association for computational linguistics (acl-2014), vol. 1, pp. 839-849. 2014.
+21. miao fan, qiang zhou, and thomas fang zheng. (2014) transition-based knowledge graph embedding with relational mapping properties." in proceedings of pacific asia conference on language, information and computing 2014 (paclic 2014).
+22. 周强,王俊俊,陈丽欧. (2012) 构建大规模的汉语事件知识库,中文信息学报,26(3),pp88-93, 2012.
+23. 邱晗,周强. (2012) 自动获取大规模的汉语紧密组合词汇关联对,清华大学学报(自然科学版),51(9),pp1293-1297. 2011.
+24. qiang zhou. (2012). evaluation report of the third chinese parsing evaluation: cips-sighan-parseval-2012. proc. of the clp 2012, dec. 2012.tianjin china. 2012.
+25. miao fan, yingnan xiao, qiangzhou. (2012) bringing the associative ability to social tag recommendation. proc. of acl 2012 workshop on graph-text 7, july 2012. pp. 44-54. jeju, republic of korea, 2012.
+26. liou chen, qiang zhou, hongxian wang. (2012). improving chinese event construction extraction with lexical relation pairs, proc. of nldb 2012. june 2012. pp 314-319, groningen, netherlands, 2012.
+27. hongxian wang, qiang zhou and liou chen. (2011) introducing more features to improve chinese shift-reduce parsing. proc. of apsipa asc 2011, october 2011. xi'an, china. 2011.
+28. qiang zhou, jingbo zhu. (2010) chinese syntactic parsing evaluation. proc. of cips-sighan joint conference on chinese language processing (clp-2010), august 2010, pp 286-295, beijing china, 2010.
+29. liou chen, qiang zhou. (2010) automatic identification of chinese event descriptive clause. proc. of cips-sighan joint conference on chinese language processing (clp-2010), august 2010, pp 62-70. beijing, china, 2010
+30. 周强,李玉梅. (2010) 汉语块分析评测任务设计,中文信息学报, 24(1), pp123-128. 2010.
+31. 周强,李玉梅. (2009) cips-parseval-2009评测报告. 第一届汉语句法分析评测学术研讨会论文集(cips-parseval-2009),北京,2009年11月,pp.iii—xiii. 2009.
+32. 陈丽欧,周强. (2009) 汉语事件描述小句自动识别. 第一届汉语句法分析评测学术研讨会论文集(cips-parseval-2009),北京,2009年11月,pp.45-52. 2009.
+33. 王宏显,周强. (2009) 构建词语语义关联度人工标注集. 第十届汉语词汇语义学研讨会论文集,2009, pp 95-100. 2009.
+34. qiang zhou (2008) a computational framework to integrate different semantic resources. proc. of 11th international conference of text, speech and dialogue (tsd-2008). brno, czech republic. lnai 5246.
+35. qiang zhou. (2008) automatic rule acquisition for chinese intra-chunk relations. proc. of ijcnlp-2008.
+36. 周强 (2008) 汉语基本块规则的自动学习和扩展进化 <清华大学学报>(自然科学版)48(1). pp 88-91.
+37. 陈亿、周强、宇航 (2008) 分层次的汉语功能块描述库构建分析 <中文信息学报>,22(3). pp. 24-31.
+38. 周强(2007) 汉语句法语义链接知识库开发. 第八届汉语词汇语义学研讨会(clsw-2007). 香港. 2007.5.
+39. 周强(2007)基于规则的汉语基本块自动分析器. 第七届中文信息处理国际会议论文集(iccc-2007). p137-142.
+40. 高嵩,周强(2007)一种分词后处理反馈算法. 第七届中文信息处理国际会议论文集(iccc-2007). p24-30.
+41. 周强,赵颖泽(2007)汉语功能块自动分析. 中文信息学报,21(5), p18-27.
+42. 周强(2007)汉语基本块描述体系. 中文信息学报,21(3),p21-27.
+43. yingze zhao, qiang zhou (2006) a svm-based model for chinese functional chunk parsing. proc. of the fifth sighan workshop on chinese language processing, p94-101. sydney, july 2006.
+44. qiang zhou, yabin zheng (2006) integrate text clustering features in text categorization system proc. of the international workshop on intelligent information access (iiia-2006), helsinki, july 2006.
+45. 李江波, 周强, 陈祖舜 (2006) 汉语词典的快速查询算法研究. 中文信息学报, 20(5), p31-39.
+46. qiang zhou, zhengfa dang (2005). "a syntax and semantics linking algorithm for the chinese language", in proc. of 8th international conference on text, speech and dialogue (tsd 2005), sept. 12-16, czech republic.
+47. 梅立军, 周强等 (2005). "知网与同义词词林的信息融合" ,<中文信息学报>,19(1), p63-70.
+48. 党政法, 周强 (2005) "短语树到依存树的自动转换研究",<中文信息学报>, 19(3), p21-27.
+49. 周强,陈祖舜,梅立军(2005)"情境描述的构建方法研究",孙茂松,陈群秀主编<自然语言理解与大规模内容计算>,清华大学出版社,175-180.
+50. 周强(2004)汉语句法树库标注体系 <中文信息学报>,18(4), 2004, p1-8.
+51. chang liu, qiang zhou (2003) class-based semantic cohesion computation, ieee international conference on smc-2003, washington, d.c., usa , oct. 5-8, 2003. p.1675-1679.
+52. yuqi zhang, qiang zhou (2003) chinese partial parser for automatic extraction of verb grammatical collocations, ieee international conference of natural language processing and knowledge engineer (nlpke-2003), beijing, china, oct. 26 – 28, 2003. p.677-682.
+53. 周强(2003)汉语部分分析研究. 孙茂松、陈群秀主编<语言计算与基于内容的文本处理>,清华大学出版社,p116-121.
+54. 周强 (2003). 基于语料库的汉语句法分析和知识获取研究. 徐波,孙茂松,靳光瑾主编<中文信息处理若干重要问题>, 科学出版社,p34-47.
+55. qiang zhou (2003) build a large-scale syntactically annotated chinese corpus, 6th international conference of text, speech and dialogue (tsd2003), czech, sept. 9 –12, 2003. springer lnai 2807. p.106-113.
+56. 周强,任海波,孙茂松(2002) "分阶段构建汉语树库", in proc. of the second china-japan natural language processing joint research promotion conference, beijing, china. p189-197.
+57. qiang zhou, elliott france drabek, fuji ren (2002) "annotating the functional chunks in chinese sentences", in proceedings of the third international conference on language resources and evaluation (lrec2002), las palmas de gran canaria, spain. p731-738.
+58. zushun chen, qiang zhou, qiang zhao (2002) "situation – a suitable framework for organizing and positioning lexical semantic knowledge", computational linguistics and chinese language processing, 7(2), p1-36.
+59. 张昱琪,周强 (2002). 汉语基本短语的自动识别.<中文信息学报>, 16(6),p1-8.
+60. 周强,任海波,詹卫东 (2001). "构建大规模汉语语块库",黄昌宁,张普主编<自然语言理解与机器翻译>,清华大学出版社,p102-107.
+61. 周强(2001)"汉语句法知识的自动获取研究",中文信息学会二十周年学术会议论文集,北京,p156-165.
+62. elliott france drabek and qiang zhou (2001). "experiments in learning models for functional chunking of chinese text", in proceedings of ieee international workshop on natural language processing and knowledge engineering (nlpke' 2001), tucson, usa, p895-864.
+63. elliott france drabek and qiang zhou (2000). "using co-occurence statistics as an information source for partial parsing of chinese", in proceedings of second chinese language processing workshop, acl 2000, 8 october, 2000, hong kong. p22-28.
+64. 周强,孙茂松,黄昌宁(2000) "汉语最长名词短语的自动识别"<软件学报>,11(2), p195-201.
+65. qiang zhou(2000). "local context templates for chinese constituent boundary prediction", in proceedings of the 18th international conference on computational linguistics (coling'00), germany. p981-987.
+66. qiang zhou and fuji ren. (2000) "acquisition and applications of structure preference relations in chinese". natural language engineering 6(2): p163-181.
+67. 周强,冯松岩 (2000). "构建知网关系的网状表示" <中文信息学报> 2000, 14(6), p21-27.

@@ -1,0 +1,3 @@
+研究概况
+陈挺教授长期研究大数据高效算法设计和机器学习,并应用于研究人类基因组、转录组和蛋白组的高通量大数据分析和功能预测.在生物调控系统的数学模型、蛋白质组学以及质谱仪数据处理、高通量基因组测序数据处理、宏基因组数据处理,复杂疾病的遗传学研究、医学信息处理等方面均取得了一系列重要的研究成果.主持及参与美国自然科学基金会(nsf)、美国国家卫生研究院(nih),中国自然科学基金(nsfc)等项目十余项.在cell、science、nature communications、pnas、genome research、american journal of human genetics, cell systems, genome biology, nucleic acid research等国际著名期刊发表学术论文120余篇,被引超过10000次(google scholar),其中20篇论文被引用超过100次.
+2004年获得美国史隆基金会研究奖(sloan fellow).
