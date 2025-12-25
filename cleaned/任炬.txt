@@ -1,0 +1,4 @@
+研究领域
+物联网,边缘计算,边缘智能,隐私计算
+研究概况
+长期从事物联网与边缘智能计算等领域研究.在物联网领域,关注无线感知、超表面通信增强等研究方向;在边缘智能领域,关注端侧智能计算加速、协作智能、分布式智能、边缘智能安全与隐私保护等研究方向.上述方向上的研究成果已发表于acm/ieee ton, jsac, tmc等国际期刊及acm mobicom, mobisys, sensys, ubicomp, ccs, ndss, ieee infocom等国际会议上发表论文100余篇,并出版教材(专著)4部.主持国家自然科学基金重点、专项重点、优青,国家重点研发计划课题等国家级项目10余项.现担任ieee/acm trans. networking,ieee trans. mobile computing,ieee trans. vehicular technology,ieee trans. cloud computing等期刊编委,chinese journal of electronics期刊领域主编.连续多年入选科睿唯安全球高被引科学家.作为第一完成人的项目成果"算力下沉的端边协同计算理论与方法"荣获2023年度中国电子学会自然科学一等奖,项目成果"异构自适应的边缘协同智能计算技术与应用"入选2022-2023年度中国物联网十大科技进展.

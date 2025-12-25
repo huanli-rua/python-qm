@@ -1,0 +1,4 @@
+研究领域
+多媒体智能计算,大数据分析等
+研究概况
+长期从事多媒体计算与大数据分析等研究工作,在多媒体智能计算和跨空间大数据分析方面取得多项创新科技成果.主持国家973项目、国家基金委重大项目等多个项目,三次获国家自然科学二等奖、5次获省部级一等奖.出版<optimal resource allocation for distributed video and multimedia communications>(2014)、<social video content delivery>(2016)、<online social media content delivery: a data-driven approach>(2018)、<automated machine learning and meta-learning for multimedia>(2021)、<visual question answering: from theory to application>(2022)、<图表征学习:迈向动态开放环境>(2023)6本中英文著作,发表高水平国际论文380余篇,10次获acm及ieee等国际最佳论文奖,总引用30000余次,h-index 92.2次获acm和ieee学会技术成就奖.

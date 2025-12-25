@@ -1,0 +1,20 @@
+研究领域
+人工神经网络,计算神经科学
+研究概况
+目前我主要专注于两个研究方向.首先是深度学习模型的对抗攻击与防御.我们致力于在数字世界和物理世界中构建对抗样本,以此揭示深度学习模型存在的安全漏洞与潜在风险.同时,我们也在探索如何构建更具鲁棒性的深度学习模型.其次是脑启发的计算模型.我们正在开发新型模型以突破现有深度学习技术的局限(包括上述安全漏洞问题).为实现这一目标,我们与神经科学家展开合作,通过解析小鼠大脑的神经连接图谱,模拟动物大脑的各种生理功能.已经在国际期刊和国际会议上发表论文100余篇,谷歌引用2万余次.
+所获奖励
+2021 吴文俊人工智能自然科学奖一等奖(排名第3):鲁棒高效的深度学习理论与方法
+2020年清华大学第九届青年教师教学大赛(工科组)一等奖
+2019 吴文俊人工智能自然科学奖二等奖(排名第1):脑启发的计算模型理论与方法
+2011 教育部自然科学一等奖(排名第3):神经动力学优化模型及应用
+近期论文
+1. xiao li, hang chen, xiaolin hu, "on the importance of backbone to the adversarial robustness of object detectors," ieee transactions on information forensics and security, vol. 20, pp. 2387-2398, 2025.
+2. kai li, fenghua xie, hang chen, kexin yuan, xiaolin hu, "an audio-visual speech separation model inspired by cortico-thalamo-cortical circuits," ieee transactions on pattern analysis and machine intelligence, vol. 46, no. 10, pp. 6637-6651, oct 2024.
+3. xiao li, yiming zhu, yifan huang, wei zhang, yingzhe he, jie shi, xiaolin hu, "pbcat: patch-based composite adversarial training against physically realizable attacks on object detection," proc. of the international conference on computer vision (iccv), honolulu, hawaii, oct 19th-23rd, 2025.
+4. han liu, peng cui, bingning wang, weipeng chen, yupeng zhang, jun zhu, xiaolin hu, "improving accuracy and calibration via differentiated deep mutual learning," proc. of the ieee conference on computer vision and pattern recognition (cvpr), nashville tn, june 11th-15th, 2025.
+5. chongkai yu, ting liu, li anqi, xiaochao qu, chengjing wu, luoqi liu, xiaolin hu, "sam-ref: introducing image-prompt synergy during interaction for detail enhancement in the segment anything model," proc. of the ieee conference on computer vision and pattern recognition (cvpr), nashville tn, june 11th-15th, 2025.
+6. kai li, wendi sang, chang zeng, runxuan yang, guo chen, xiaolin hu, "sonicsim: a customizable simulation platform for speech processing in moving sound source scenarios," proc. of the 13th international conference on learning representations (iclr), singapore, apr 24th-28th, 2025.
+7. mohan xu, kai li, guo chen, xiaolin hu, "tiger: time-frequency interleaved gain extraction and reconstruction for efficient speech separation", proc. of the 13th international conference on learning representations (iclr), singapore, apr 24th-28th, 2025.
+8. hang chen, chufeng tang, xiao li, xiaolin hu, "efficient neuron segmentation in electron microscopy by affinity-guided queries," proc. of the 13th international conference on learning representations (iclr), singapore, apr 24th-28th, 2025.
+9. xiao li, wenxuan sun, huanran chen, qiongxiu li, yining liu, yingzhe he, jie shi, xiaolin hu, "adbm: adversarial diffusion bridge model for reliable adversarial purification," proc. of the 13th international conference on learning representations (iclr), singapore, apr 24th-28th, 2025.
+10. zhi cheng, zhanhao hu, yuqiu liu, hang su, xiaolin hu, "full-distance evasion of pedestrian detectors in the physical world," advances in neural information processing (neurips), vancouver, canada, dec 10th-15th, 2024.

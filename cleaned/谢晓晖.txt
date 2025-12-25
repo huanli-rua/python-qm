@@ -1,0 +1,29 @@
+研究领域
+互联网体系结构,网络安全,人工智能
+研究概况
+谢晓晖博士,清华大学计算机系助理研究员,先后在清华大学计算机系获得学士和博士学位.主要研究方向为人工智能与互联网体系结构,作为主要作者在thewebconf,sigir等一系列顶级会议/期刊上共发表了30余篇高水平论文,相关成果获"2024年中国通信学会科学技术奖一等奖","2022年吴文俊人工智能科学技术奖优秀博士学位论文"和"2022年北京市科学技术进步奖一等奖"等荣誉.社会工作方面,担任计算机系党委学生工作组组长,负责本科生培养与管理工作,曾获清华大学教学成果一等奖1次(2021年),二等奖1次(2025年).
+研究成果(近5年)
+1. yunze wei, kaiwen chi, shibo du, xiaohui xie, ziyu geng, yuwei han, zhen li, zhanyou li, yong cui. large language model driven automated network protocol testing. (anrw 2025).
+2. xiaoyu he, xiaohui xie, xin wang, lei zhang, kun xie, lin chen, yong cui. flowsentry: accelerating netflow-based ddos detection. (ccs 2025).
+3. chang liu, xiaohui xie, xinggong zhang, yong cui. large language models for networking: workflow, advances and challenges. (ieee network 2024).
+4. tongze wang, xiaohui xie, wenduo wang, chuyi wang, youjian zhao, yong cui. netmamba: efficient network traffic classification via pre-training unidirectional mamba. (icnp 2024).
+5. lingfeng peng, xiaohui xie, sijiang huang, ziyi wang, yong cui. ptu: pre-trained model for network traffic understanding. (icnp 2024).
+6. yishuo zhang, lanshan zhang, zhizhen zhang, ziyi wang, wendong wang, xiaohui xie. resolving spurious temporal location dependency for video corpus moment retrieval. (smc 2024).
+7. tongze wang, xiaohui xie, lei zhang, chuyi wang, liang zhang, yong cui. shieldgpt: an llm-based framework for ddos mitigation. the 8th asia pacific workshop on networking (apnet 2024).
+8. jie zhang, xt zuo, xiaohui xie, wei wang, yong cui. transportal: keeping applications enjoying tailored transport effortlessly. (iwqos 2024).
+9. shuqi zhu, xiaohui xie, ziyi ye, qingyao ai, yiqun liu. comparing point-wise and pair-wise relevance judgment with brain signals. journal of the association for information science and technology (jasist 2024).
+10. zhizhen zhang, xiaohui xie, yishuo zhang, lanshan zhang, yong jiang. hiercas: hierarchical temporal graph attention networks for popularity prediction in information cascades. (ijcnn 2024).
+11. ziyi ye, xiaohui xie, qingyao ai, yiqun liu, zhihong wang, weihang su, min zhang. relevance feedback with brain signals. acm transactions on information systems (tois 2024).
+12. ye tian, mengyu yang, lanshan zhang, zhizhen zhang, yang liu, xiaohui xie, xirong que, wendong wang. view while moving: efficient video recognition in long-untrimmed videos. proceedings of the 31st acm international conference on multimedia. (mm 2023).
+13. xiaohui xie, qian dong, bingning wang, feiyang lv, ting yao, weinan gan, zhijing wu, xiangsheng li, haitao li, yiqun liu, jin ma. t2ranking: a large-scale chinese benchmark for passage ranking. proceedings of the 46th international acm sigir conference on research and development in information retrieval. (sigir 2023).
+14. zhiyu he, shaorun zhang, peijie sun, jiayu li, xiaohui xie, min zhang, yiqun liu. understanding user immersion in online short video interaction. proceedings of the 32nd acm international conference on information and knowledge management. (cikm 2023).
+15. jingtao zhan, xiaohui xie, jiaxin mao, yiqun liu, jiafeng guo, min zhang, shaoping ma. evaluating interpolation and extrapolation performance of neural retrieval models. proceedings of the 31st acm international conference on information & knowledge management. (cikm 2023).
+16. yixing fan, xiaohui xie, yinqiong cai, jia chen, xinyu ma, xiangsheng li, ruqing zhang, jiafeng guo. pre-training methods in information retrieval. foundations and trends® in information retrieval. (fntir 2022).
+17. ziyi ye, xiaohui xie, yiqun liu, zhihong wang, xuesong chen, min zhang, shaoping ma. brain topography adaptive network for satisfaction modeling in interactive information access system. proceedings of the 30th acm international conference on multimedia. (mm 2022).
+18. ziyi ye, xiaohui xie, yiqun liu, zhihong wang, xuancheng li, jiaji li, xuesong chen, min zhang, shaoping ma. why don't you click: understanding non-click results in web search with brain signals. proceedings of the 45th international acm sigir conference on research and development in information retrieval. (sigir 2022).
+19. jia chen, yiqun liu, yan fang, jiaxin mao, hui fang, shenghao yang, xiaohui xie, min zhang, shaoping ma. axiomatically regularized pre-training for ad hoc search. proceedings of the 45th international acm sigir conference on research and development in information retrieval. (sigir 2022).
+20. ziyi ye, xiaohui xie, yiqun liu, zhihong wang, xuesong chen, min zhang, shaoping ma. towards a better understanding of human reading comprehension with brain signals. proceedings of the acm web conference 2022. (thewebconf 2022).
+21. junqi zhang, yiqun liu, jiaxin mao, xiaohui xie, min zhang, shaoping ma, qi tian. global or local: constructing personalized click models for web search. proceedings of the acm web conference 2022. (thewebconf 2022).
+22. xuesong chen, ziyi ye, xiaohui xie, yiqun liu, xiaorong gao, weihang su, shuqi zhu, yike sun, min zhang, shaoping ma. web search via an efficient and effective brain-machine interface. proceedings of the fifteenth acm international conference on web search and data mining. (wsdm 2022).
+23. yiqun liu, jiaxin mao, xiaohui xie, min zhang, shaoping ma. challenges in designing a brain-machine search interface. acm sigir forum 2021 ruizhe zhang, xiaohui xie, jiaxin mao, yiqun liu, min zhang, shaoping ma. constructing a comparison-based click model for web search. proceedings of the web conference 2021. (thewebconf 2021).
+[
